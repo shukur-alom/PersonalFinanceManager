@@ -30,7 +30,7 @@ Follow these steps to set up and run the project on your local machine.
     ```
 3. Compile the project:
     ```bash
-    javac -d bin src/Main.java.java
+    javac -d bin src/Main.java
     ```
 4. Run the application:
     ```bash
