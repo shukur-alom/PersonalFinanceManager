@@ -1,1 +1,2 @@
 2025-04-17,1000.00,Salary,Monthly Salarry,true
+2025-04-25,500.00,gift,gifted,false
